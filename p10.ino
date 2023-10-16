@@ -15,10 +15,6 @@ DMDESP Disp(DISPLAYS_WIDE, DISPLAYS_HIGH);
 // Wi-Fi Credentials
 const char* ssid = "PrayasHS"; // Name of the Host
 const char* password = "prayas#samsung"; // Password of the corresponding Host
-// const char* ssid = "dev_on"; // Name of the Host
-// const char* password = "Codeinit_240"; // Password of the corresponding Host
-// const char* ssid = "Airtel_dips"; // Name of the Host
-// const char* password = "Fiohomes_20c"; // Password of the corresponding Host
 
 WiFiClient client;
 HTTPClient http;
