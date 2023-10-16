@@ -13,8 +13,8 @@
 DMDESP Disp(DISPLAYS_WIDE, DISPLAYS_HIGH);
 
 // Wi-Fi Credentials
-const char* ssid = "PrayasHS"; // Name of the Host
-const char* password = "prayas#samsung"; // Password of the corresponding Host
+const char* ssid = "hostName"; // Name of the Host
+const char* password = "Password"; // Password of the corresponding Host
 
 WiFiClient client;
 HTTPClient http;
